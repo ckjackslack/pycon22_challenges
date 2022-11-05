@@ -43,7 +43,6 @@ def main():
     d4 = SuperDuck("Launchpad McQuack", Power.SPEED_BOOTS)
     ducks_in_a_row = [d4, d3, d2, d1]  # Here boss, I've sorted it... it's done boss
     pp(ducks_in_a_row)
-    print(Power.SPEED_BOOTS.value)
     # add some code here (and/or edit that above this line)
 
 if __name__ == '__main__':
